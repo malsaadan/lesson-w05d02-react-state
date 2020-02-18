@@ -22,7 +22,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -49,7 +49,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes, it will work, but it will ignore the second element
 ```
 
 <br><br>
@@ -77,7 +77,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1 
 ```
 
 
@@ -94,7 +94,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+False, default export is used only when there is a single component in the file, otherwise use export.
 ```
 
 
@@ -114,7 +114,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -155,7 +155,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1 & 4
 ```
 
 <br><br>
@@ -193,7 +193,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. Yes
 ```
 
 
@@ -216,7 +216,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -240,7 +240,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 <br><br>
@@ -260,7 +260,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+prop
 ```
 
 <br><br>
@@ -294,7 +294,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+5
 ```
 
 
@@ -312,7 +312,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. False
 ```
 
 
@@ -334,7 +334,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -361,7 +361,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4
 ```
 
 
